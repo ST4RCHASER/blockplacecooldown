@@ -1,0 +1,8 @@
+name: BlockPlaceCooldown
+version: 1.2
+author: _StarChaser
+main: me.pluemkitsada.blockplacecooldown.Main
+
+commands:
+    bpc:
+        description: info command

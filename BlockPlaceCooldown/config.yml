@@ -1,0 +1,12 @@
+cooldown: 10
+message:
+    prefix: '&7BlockPlaceCooldown: '
+    reload: '&eReloaded Complete!'
+    permission: '&cYou not have permission to this command'
+    added: '&aSuccessfully add blockid &c<blockid> &ato the config'
+    removed: '&aSuccessfully remove blockid &c<blockid> &ato the config'
+    denyplace: '&cPlease wait &e<time> &cseconds to place that block again'
+    onlyconsole: '&7BlockPlaceCooldown: &cCommands this only player'
+    canplace: '&aYou can place block now :D'
+blocks:
+    '16': '16'
